@@ -10,15 +10,15 @@ Sou estudante do curso de Programação de Jogos Digitais
 
 #  Games
 
-[Jogo 1 : Folclorecult](LINK)
+[Jogo 1 : Folclorecult](https://eliciaa.github.io/Folclorecult)
 
 ![](folclorecult.png)
 
-[Jogo 2:Recicle](https://alicinhaa.github.io/Recicle)
+[Jogo 2:  Recicle](https://alicinhaa.github.io/Recicle)
 
 ![](Recicle.png)  
 
-[Jogo 3:Pergame](LINK)
+[Jogo 3:  Pergame](https://eliciaa.github.io/Pergame)
 
 ![](pergame.png)  
 

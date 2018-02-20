@@ -1,7 +1,5 @@
-layout: default
----
 
-criando**minha**, _pagina_,  ~~principal~~.
+
 
 #  Quem sou eu 
 

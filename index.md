@@ -13,7 +13,7 @@ Sou estudante do curso de Programação de Jogos Digitais
 [Jogo 1 : Folclorecult](LINK)
 ![](folclorecult.png)
 
-[Jogo 2:Recicle](LINK)
+[Jogo 2:Recicle](https://alicinhaa.github.io/Recicle/)
 ![](Recicle.png)
 
 [Jogo 3:Pergame](LINK)

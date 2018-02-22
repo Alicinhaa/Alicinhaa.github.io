@@ -8,7 +8,7 @@ Sou estudante do curso de Programação de Jogos Digitais !
 
 #  Portifólios
 
-## Empresas que já participei
+# Empresas que já participei
 
 ![](alices.png)
 
@@ -41,7 +41,7 @@ Influence Map produzudo para a disciplina de motores
 * Aula do professor  Marcelo  
 * Ainda não submetido em nenhum evento fora da instituição de ensino
   
-## Redes Sociais
+# Redes Sociais
 
 1.Facebook:Maria Alice Oliveira
 

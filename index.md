@@ -30,7 +30,7 @@ Sou estudante do curso de Programação de Jogos Digitais
 #  Apresentações
 * Aula de Jogos 
 1. Aula do professor  Marcelo
-Ainda não submetido em nenhum evento fora da instituição de ensino
+  Ainda não submetido em nenhum evento fora da instituição de ensino
 
 ***
 

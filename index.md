@@ -3,12 +3,12 @@
 
 #  Quem sou eu?
 
-Sou estudante do curso de Programação de Jogos Digitais
+Sou estudante do curso de Programação de Jogos Digitais !
 ![](maria.jpg)
 
 #  Portifólios
 
-#  Games
+#  Games Produzidos
 
 [Jogo 1 : Folclorecult](https://eliciaa.github.io/Folclorecult)
 

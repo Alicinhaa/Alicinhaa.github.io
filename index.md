@@ -27,7 +27,9 @@ Sou estudante do curso de Programação de Jogos Digitais !
 
 ![](alices.png)
 
-![]()
+Influence Map produzudo para a disciplina de motores
+
+![](PhotoGrid_1518328631443.jpg)
 
 #  Apresentações
 * Aula de Jogos 

@@ -39,8 +39,7 @@ Influence Map produzudo para a disciplina de motores
 ![](PhotoGrid_1518328631443.jpg)
 
 #  Apresentações
-* Aula de Jogos 
-* Aula do professor  Marcelo  
+* Aula de Oficina e motores de jogos  
 * Ainda não submetido em nenhum evento fora da instituição de ensino
   
 # Redes Sociais

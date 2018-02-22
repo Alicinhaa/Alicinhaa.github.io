@@ -16,7 +16,7 @@ Sou estudante do curso de Programação de Jogos Digitais !
 
 [Jogo 2:  Recicle](https://alicinhaa.github.io/Recicle)
 
-![](Recicle.png)  
+![](Recicle.png) 
 
 [Jogo 3:  Pergame](https://eliciaa.github.io/Pergame)
 
@@ -26,6 +26,8 @@ Sou estudante do curso de Programação de Jogos Digitais !
 ![](https://www.google.com.br/search?q=pixel+art+gato&tbm=isch&tbo=u&source=univ&sa=X&ved=0ahUKEwirivC58JjZAhXCf5AKHfW0BPkQsAQIJw&biw=1920&bih=974#imgrc=kYzvpcmiyPp-cM:)
 
 ![](alices.png)
+
+![]()
 
 #  Apresentações
 * Aula de Jogos 

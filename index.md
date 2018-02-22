@@ -29,7 +29,16 @@ Sou estudante do curso de Programação de Jogos Digitais
 
 #  Apresentações
 * Aula de Jogos 
-1. Aula do professor  Marcelo  Ainda não submetido em nenhum evento fora da instituição de ensino
+1. Aula do professor  Marcelo  
+  Ainda não submetido em nenhum evento fora da instituição de ensino
+  
+#Redes Sociais
+
+1.Facebook:Maria Alice Oliveira
+
+2.Instagram: @marialicees_
+
+3.Email: aliceoliveira.maso@gmail.com
 
 ***
 

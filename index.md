@@ -6,8 +6,6 @@
 Sou estudante do curso de Programação de Jogos Digitais !
 ![](maria.jpg)
 
-#  Portifólios
-
 # Empresas que já participei
 
 ![](alices.png)

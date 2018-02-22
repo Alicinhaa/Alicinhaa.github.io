@@ -8,6 +8,9 @@ Sou estudante do curso de Programação de Jogos Digitais !
 
 #  Portifólios
 
+## Empresas que já participei
+![](alices.png)
+
 #  Games Produzidos
 
 [Jogo 1 : Folclorecult](https://eliciaa.github.io/Folclorecult)
@@ -25,7 +28,6 @@ Sou estudante do curso de Programação de Jogos Digitais !
 #  Artes 
 ![](https://www.google.com.br/search?q=pixel+art+gato&tbm=isch&tbo=u&source=univ&sa=X&ved=0ahUKEwirivC58JjZAhXCf5AKHfW0BPkQsAQIJw&biw=1920&bih=974#imgrc=kYzvpcmiyPp-cM:)
 
-![](alices.png)
 
 Influence Map produzudo para a disciplina de motores
 

@@ -33,6 +33,10 @@ Maria Alice,17.Estudante do curso de Programação de Jogos Digitais !
 
 ![](pergame.png)  
 
+*Descrição : Jogo produzido para o projeto integrador e a disciplina de oficina,a respeito do sistema imunológico
+
+![]()
+
 #  Artes 
 ![](https://www.google.com.br/search?q=pixel+art+gato&tbm=isch&tbo=u&source=univ&sa=X&ved=0ahUKEwirivC58JjZAhXCf5AKHfW0BPkQsAQIJw&biw=1920&bih=974#imgrc=kYzvpcmiyPp-cM:)
 

@@ -33,7 +33,7 @@ Maria Alice,17.Estudante do curso de Programação de Jogos Digitais !
 
 ![](pergame.png)  
 
-*Descrição : Tower defense produzido para o projeto integrador e a disciplina de oficina,a respeito do sistema imunológico
+* Descrição : Tower defense produzido para o projeto integrador e a disciplina de oficina,a respeito do sistema imunológico
 
 [Jogo 4:  Imuno defense](https://eliciaa.github.io/imuno)
 

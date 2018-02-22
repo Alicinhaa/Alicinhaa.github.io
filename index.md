@@ -29,9 +29,8 @@ Sou estudante do curso de Programação de Jogos Digitais
 
 #  Apresentações
 * Aula de Jogos 
-1. Aula de Marcelo
-2. tiago
-3. Durval
+1. Aula do professor  Marcelo
+Ainda não submetido em nenhum evento fora da instituição de ensino
 
 ***
 

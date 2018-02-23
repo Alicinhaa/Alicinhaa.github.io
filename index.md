@@ -58,7 +58,7 @@ Influence Map criado para a disciplina de motores!
 
 2.[Instagram: @marialicees_](https://www.instagram.com/marialicees_/?hl=pt-br)
 
-3.Email: aliceoliveira.maso@gmail.com
+3.[Email: aliceoliveira.maso@gmail.com](https://mail.google.com/mail/u/0/#inbox?compose=161c2b6dfd5ea0d7)
 
 ***
 

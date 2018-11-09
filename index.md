@@ -41,7 +41,7 @@ Maria Alice,18.Estudante do curso de Programação de Jogos Digitais !
 
 [Jogo 5: Climbing courage](https://alicinhaa.github.io/Climbcou/)
 
-![](imuno.png)
+![](climb.png)
 
 
 #  Artes 

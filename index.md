@@ -31,7 +31,7 @@ Maria Alice,18.Estudante do curso de Programação de Jogos Digitais !
 * Descrição: Um quiz sobre conceitos e curiosidades a respeito da área de jogos
 [Jogo 3:  Pergame](https://eliciaa.github.io/Pergame)
 
-![](pergame.png)  
+![](fg.png)  
 
 * Descrição : Tower defense produzido para o projeto integrador e a disciplina de oficina,a respeito do sistema imunológico
 

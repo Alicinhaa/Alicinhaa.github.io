@@ -21,7 +21,7 @@ Maria Alice,18.Estudante do curso de Programação de Jogos Digitais !
 * Descrição: Um jogo que imerge o jogador e relembra conceitose figuras culturais do povo brasileiro.
 [Jogo 1 : Folclorecult](https://eliciaa.github.io/Folclorecult)
 
-![](folclorecult.png)
+![](fol.png)
 
 * Descrição: Jogo que tem como objetivo reforçar as práticas conscientes da separação de lixo,pelo processo de reciclagem.
 [Jogo 2:  Recicle](https://alicinhaa.github.io/Recicle)

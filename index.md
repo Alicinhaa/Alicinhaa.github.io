@@ -12,7 +12,7 @@ Maria Alice,18.Estudante do curso de Programação de Jogos Digitais !
 
 ![](alices.png)
 
-![](Elice.png)
+![](eli.png)
 
 ![](alfajoft.png)
 

@@ -54,7 +54,7 @@ Maria Alice,18.Estudante do curso de Programação de Jogos Digitais !
 
 * Descrição : Fase do jogo Recicle
 
- ![](lix.png)
+ ![](fase.png)
 
 
 

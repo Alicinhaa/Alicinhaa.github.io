@@ -45,9 +45,13 @@ Maria Alice,18.Estudante do curso de Programação de Jogos Digitais !
 
 ![](climb.png)
 
+* Descrição : Jogo produzido para o segundo bimestre da disciplina de Oficina (2018)
+
 [Jogo 6: Save the princess](https://alicinhaa.github.io/STP/)
 
 ![](save.png)
+
+* Descrição : Jogo produzido para o terceiro bimestre da disciplina de Oficina (2018)
 
 [Jogo 7: Stations of the year](https://alicinhaa.github.io/SOY/)
 

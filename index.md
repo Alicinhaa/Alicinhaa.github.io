@@ -26,7 +26,7 @@ Maria Alice,18.Estudante do curso de Programação de Jogos Digitais !
 * Descrição: Jogo que tem como objetivo reforçar as práticas conscientes da separação de lixo,pelo processo de reciclagem.
 [Jogo 2:  Recicle](https://alicinhaa.github.io/Recicle)
 
-![](Recicle.png) 
+![](recic.png) 
 
 * Descrição: Um quiz sobre conceitos e curiosidades a respeito da área de jogos
 [Jogo 3:  Pergame](https://eliciaa.github.io/Pergame)

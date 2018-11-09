@@ -14,7 +14,7 @@ Maria Alice,18.Estudante do curso de Programação de Jogos Digitais !
 
 ![](eli.png)
 
-![](alfajoft.png)
+![](alfa.png)
 
 #  Games Produzidos
 

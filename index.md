@@ -37,7 +37,7 @@ Maria Alice,18.Estudante do curso de Programação de Jogos Digitais !
 
 [Jogo 4:  Imuno defense](https://eliciaa.github.io/imuno)
 
-![](imuno.png)
+![](Sem título.png)
 
 * Descrição : Jogo produzido para o primeiro bimestre da disciplina de Oficina (2018)
 

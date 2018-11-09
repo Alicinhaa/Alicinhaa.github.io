@@ -6,7 +6,7 @@
 Maria Alice,18.Estudante do curso de Programação de Jogos Digitais !
 
 
-![](IMG_20170612_222140_217.jpg) 
+![](ft alice.png) 
 
 # Empresas que já participei
 

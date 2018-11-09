@@ -39,6 +39,8 @@ Maria Alice,18.Estudante do curso de Programação de Jogos Digitais !
 
 ![](imuno.png)
 
+* Descrição : Jogo produzido para o primeiro bimestre da disciplina de Oficina (2018)
+
 [Jogo 5: Climbing courage](https://alicinhaa.github.io/Climbcou/)
 
 ![](climb.png)

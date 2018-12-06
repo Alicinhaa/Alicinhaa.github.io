@@ -81,11 +81,9 @@ Influence Map criado para a disciplina de motores!
   
 # Redes Sociais
 
-1.[Facebook:Maria Alice Oliveira](https://www.facebook.com/profile.php?id=100005702672986)
+1.[Instagram: @marialicees_](https://www.instagram.com/marialicees_/?hl=pt-br)
 
-2.[Instagram: @marialicees_](https://www.instagram.com/marialicees_/?hl=pt-br)
-
-3.[Email: aliceoliveira.maso@gmail.com](https://mail.google.com/mail/u/0/#inbox?compose=161c2b6dfd5ea0d7)
+2.[Email: aliceoliveira.maso@gmail.com](https://mail.google.com/mail/u/0/#inbox?compose=161c2b6dfd5ea0d7)
 
 
 ***

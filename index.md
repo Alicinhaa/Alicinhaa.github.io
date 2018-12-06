@@ -71,7 +71,7 @@ Maria Alice,18.Estudante do curso de Programação de Jogos Digitais !
 
 
 
-Influence Map criado para a disciplina de motores,no quarto bimestre do terceiro ano do curso!
+* Descrição :Influence Map criado para a disciplina de motores,no quarto bimestre do terceiro ano do curso!
 
 ![](influence.png)
 

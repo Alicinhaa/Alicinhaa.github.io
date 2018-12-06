@@ -22,12 +22,12 @@ Maria Alice,18.Estudante do curso de Programação de Jogos Digitais !
 
 #  Games Produzidos
 
-* Descrição: Um jogo que imerge o jogador e relembra conceitose figuras culturais do povo brasileiro.
+* Descrição: Um jogo que imerge o jogador e relembra conceitos e figuras culturais do povo brasileiro.
 [Jogo 1 : Folclorecult](https://eliciaa.github.io/Folclorecult)
 
 ![](fol.png)
 
-* Descrição: Jogo que tem como objetivo reforçar as práticas conscientes da separação de lixo,pelo processo de reciclagem.
+* Descrição: Jogo que tem como objetivo reforçar as práticas conscientes da separação de lixo,pelo processo de reciclagem,estilo POINT AND CLICK.
 [Jogo 2:  Recicle](https://alicinhaa.github.io/Recicle)
 
 ![](recic.png) 
@@ -43,19 +43,19 @@ Maria Alice,18.Estudante do curso de Programação de Jogos Digitais !
 
 ![](Sem título.png)
 
-* Descrição : Jogo produzido para o primeiro bimestre da disciplina de Oficina (2018)
+* Descrição : Jogo produzido para o primeiro bimestre da disciplina de Oficina,com tema proposto "CORAGEM" (2018)
 
 [Jogo 5: Climbing courage](https://alicinhaa.github.io/Climbcou/)
 
 ![](climb.png)
 
-* Descrição : Jogo produzido para o segundo bimestre da disciplina de Oficina (2018)
+* Descrição : Jogo produzido para o segundo bimestre da disciplina de Oficina,tema COMPANHEIRISMO-estilo plataforma (2018)
 
 [Jogo 6: Save the princess](https://alicinhaa.github.io/STP/)
 
 ![](save.png)
 
-* Descrição : Jogo produzido para o terceiro bimestre da disciplina de Oficina (2018)
+* Descrição : Jogo produzido para o terceiro bimestre da disciplina de Oficina,com o tema proposto "TEMPERATURA"-estilo Plataforma  (2018)
 
 [Jogo 7: Stations of the year](https://alicinhaa.github.io/SOY/)
 

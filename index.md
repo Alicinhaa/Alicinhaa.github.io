@@ -3,7 +3,7 @@
 
 #  Quem sou eu?
 
-Maria Alice,18.Estudante do curso de Programação de Jogos Digitais !
+Maria Alice da Silva Oliveira ,18.Estudante do curso de Programação de Jogos Digitais !
 
 
 ![](aliceeeeeeeeeee.png) 

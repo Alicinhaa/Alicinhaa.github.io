@@ -1,6 +1,6 @@
 ﻿{
-	"name": "JOGO AWARENNES",
-	"short_name": "JOGO AWARENNES",
+	"name": "AWARENNES",
+	"short_name": "AWARENNES",
 	"start_url": "index.html",
 	"display": "fullscreen",
 	"orientation": "landscape",

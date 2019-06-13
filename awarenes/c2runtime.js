@@ -22733,9 +22733,9 @@ cr.getObjectRefTable = function () { return [
 	cr.plugins_.Audio,
 	cr.plugins_.Arr,
 	cr.plugins_.Function,
+	cr.plugins_.Text,
 	cr.plugins_.Sprite,
 	cr.plugins_.Touch,
-	cr.plugins_.Text,
 	cr.plugins_.TextBox,
 	cr.behaviors.solid,
 	cr.system_object.prototype.cnds.OnLayoutStart,
@@ -22762,7 +22762,6 @@ cr.getObjectRefTable = function () { return [
 	cr.plugins_.Sprite.prototype.acts.SetVisible,
 	cr.plugins_.Touch.prototype.cnds.OnTouchStart,
 	cr.plugins_.Sprite.prototype.cnds.IsVisible,
-	cr.plugins_.Sprite.prototype.acts.Destroy,
 	cr.plugins_.Text.prototype.acts.SetText,
 	cr.system_object.prototype.acts.CreateObject,
 	cr.plugins_.Sprite.prototype.cnds.CompareInstanceVar
